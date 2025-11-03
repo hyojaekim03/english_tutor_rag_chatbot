@@ -2,6 +2,8 @@
 
 A **RAG** project that helps ESL (English as a Second Language) students practice engaing in natural sounding conversations, and receive context-aware grammar and vocabulary guidance.
 
+
+
 ## 🏗️ Architecture
 - **Frontend:** React.js, TypeScript (Currently Implementing)
 - **Backend:** Python (FastAPI)  
@@ -10,8 +12,10 @@ A **RAG** project that helps ESL (English as a Second Language) students practic
 - **Vector Store:** Pinecone vector DB
 
 
+
 ## 📝 History 
 For a brief demo of a mock conversation with the chatbot, please look under /backend/history/conversation1.txt :)
+
 
 
 ## ⚙️ Installation (Backend)
