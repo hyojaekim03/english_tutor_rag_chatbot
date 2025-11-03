@@ -9,8 +9,10 @@ A **RAG** project that helps ESL (English as a Second Language) students practic
 - **Embedding Model:** OpenAI text-embedding-ada-002 (customizable)
 - **Vector Store:** Pinecone vector DB
 
+
 ## 📝 History 
 For a brief demo of a mock conversation with the chatbot, please look under /backend/history/conversation1.txt :)
+
 
 ## ⚙️ Installation (Backend)
 
